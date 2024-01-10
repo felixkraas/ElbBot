@@ -3,3 +3,15 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
+
+dotCover.Output
+dotCover.Output.html
+
+.idea/
+
+.sonarqube/
+logs/
+
+.vs/
+
+*.user
